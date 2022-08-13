@@ -16,5 +16,5 @@ Patch ikiyi paylastim. Uygulama artik calisiyor sadece cirkin ufak hatalar var. 
 
 Patch ucte genel olarak calismasi da takvimin duzeltildi.
 
-# Designer
-Hasan Yildirim
+# Built by
+@sugarHasan, @ignatyus
